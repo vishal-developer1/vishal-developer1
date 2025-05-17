@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Java • Spring Boot • Hibernate • Angular • SQL • REST APIs • Full-Stack Development**
 
-- 📫 How to reach me **developervishal38@gmail.com**
 
 - ⚡ Fun fact **😊😅😎**
 
